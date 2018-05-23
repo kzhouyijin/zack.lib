@@ -1,1 +1,1 @@
-include ':app', ':zack.lib', ':zack.demo'
+include  ':zack.lib', ':zack.demo'
